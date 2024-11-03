@@ -1,6 +1,6 @@
 package net.bandit.many_bows.item;
 
-import net.bandit.many_bows.entity.TidalArrow;
+import net.bandit.many_bows.entity.AncientSageArrow;
 import net.minecraft.ChatFormatting;
 import net.minecraft.network.chat.Component;
 import net.minecraft.sounds.SoundEvents;
@@ -19,9 +19,9 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
 
-public class TidalBow extends BowItem {
+public class AncientSageBow extends BowItem {
 
-    public TidalBow(Properties properties) {
+    public AncientSageBow(Properties properties) {
         super(properties);
     }
 
@@ -35,37 +35,34 @@ public class TidalBow extends BowItem {
             ItemStack arrowStack = hasInfinity ? ItemStack.EMPTY : findArrowInInventory(player);
 
             if (power >= 0.1F && (hasInfinity || !arrowStack.isEmpty())) {
-                TidalArrow tidalArrow = new TidalArrow(level, player);
+                AncientSageArrow arrow = new AncientSageArrow(level, player);
+                arrow.shootFromRotation(player, player.getXRot(), player.getYRot(), 0.0F, power * 4.0F, 1.0F);
 
-                // Apply enchantments
+                // Set high armor-penetrating damage
+                arrow.setBaseDamage(8.0);
+                arrow.setArmorPenetration(0.9f);  // 90% armor penetration
+
                 int powerLevel = EnchantmentHelper.getItemEnchantmentLevel(Enchantments.POWER_ARROWS, stack);
                 if (powerLevel > 0) {
-                    tidalArrow.setBaseDamage(tidalArrow.getBaseDamage() + (double) powerLevel * 0.5 + 0.5);
+                    arrow.setBaseDamage(arrow.getBaseDamage() + powerLevel * 0.5 + 0.5);
                 }
-
                 int punchLevel = EnchantmentHelper.getItemEnchantmentLevel(Enchantments.PUNCH_ARROWS, stack);
                 if (punchLevel > 0) {
-                    tidalArrow.setKnockback(punchLevel);
+                    arrow.setKnockback(punchLevel);
                 }
-
                 if (EnchantmentHelper.getItemEnchantmentLevel(Enchantments.FLAMING_ARROWS, stack) > 0) {
-                    tidalArrow.setSecondsOnFire(100);
+                    arrow.setSecondsOnFire(100);
                 }
 
-                tidalArrow.shootFromRotation(player, player.getXRot(), player.getYRot(), 0.0F, power * 3.0F, 1.0F);
-
-                if (hasInfinity) {
-                    tidalArrow.pickup = AbstractArrow.Pickup.DISALLOWED;
-                }
-
-                level.addFreshEntity(tidalArrow);
-                level.playSound(null, player.getX(), player.getY(), player.getZ(), SoundEvents.PLAYER_SPLASH_HIGH_SPEED, SoundSource.PLAYERS, 0.3F, 1.0F);
+                arrow.pickup = hasInfinity ? AbstractArrow.Pickup.DISALLOWED : AbstractArrow.Pickup.ALLOWED;
+                level.addFreshEntity(arrow);
+                level.playSound(null, player.getX(), player.getY(), player.getZ(), SoundEvents.ARROW_SHOOT, SoundSource.PLAYERS, 1.0F, 1.0F);
 
                 if (!hasInfinity) {
                     arrowStack.shrink(1);
                 }
-                stack.hurtAndBreak(1, player, (p) -> p.broadcastBreakEvent(player.getUsedItemHand()));
-            } else if (power >= 0.1F) {
+                stack.hurtAndBreak(1, player, p -> p.broadcastBreakEvent(player.getUsedItemHand()));
+            } else {
                 level.playSound(null, player.getX(), player.getY(), player.getZ(), SoundEvents.ARROW_HIT_PLAYER, SoundSource.PLAYERS, 1.0F, 1.0F);
             }
         }
@@ -82,8 +79,8 @@ public class TidalBow extends BowItem {
 
     @Override
     public void appendHoverText(ItemStack stack, @Nullable Level level, List<Component> tooltip, TooltipFlag flag) {
-        tooltip.add(Component.translatable("item.too_many_bows.tidal_bow.tooltip").withStyle(ChatFormatting.AQUA));
-        tooltip.add(Component.translatable("item.too_many_bows.tidal_bow.tooltip.ability").withStyle(ChatFormatting.DARK_AQUA));
-        tooltip.add(Component.translatable("item.too_many_bows.tidal_bow.tooltip.legend").withStyle(ChatFormatting.BLUE, ChatFormatting.ITALIC));
+        tooltip.add(Component.translatable("item.many_bows.ancient_sage_bow.tooltip").withStyle(ChatFormatting.GOLD));
+        tooltip.add(Component.translatable("item.many_bows.ancient_sage_bow.tooltip.ability").withStyle(ChatFormatting.DARK_GREEN));
+        tooltip.add(Component.translatable("item.many_bows.ancient_sage_bow.tooltip.legend").withStyle(ChatFormatting.DARK_PURPLE, ChatFormatting.ITALIC));
     }
 }
