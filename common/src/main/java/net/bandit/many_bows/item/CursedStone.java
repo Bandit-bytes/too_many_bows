@@ -11,17 +11,16 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
 
-public class RepairCrystalItem extends Item {
-    public RepairCrystalItem(Properties properties) {
+public class CursedStone extends Item {
+    public CursedStone(Properties properties) {
         super(properties);
     }
     @Override
     public void appendHoverText(ItemStack stack, @Nullable Level level, List<Component> tooltip, TooltipFlag flag) {
         if (Screen.hasShiftDown()) {
-        tooltip.add(Component.translatable("item.many_bows.repair_crystal.tooltip").withStyle(ChatFormatting.GREEN));
-        tooltip.add(Component.translatable("item.many_bows.repair_crystal.tooltip.use").withStyle(ChatFormatting.GRAY));
-    }else {
-        tooltip.add(Component.translatable("item.too_many_bows.hold_shift"));
+            tooltip.add(Component.translatable("item.many_bows.cursed_stone.tooltip.info").withStyle(ChatFormatting.GREEN));
+        } else {
+            tooltip.add(Component.translatable("item.too_many_bows.hold_shift"));
+        }
     }
-}
 }
