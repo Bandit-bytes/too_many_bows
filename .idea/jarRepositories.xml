@@ -91,5 +91,10 @@
       <option name="name" value="maven3" />
       <option name="url" value="https://maven.terraformersmc.com/releases" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="Illusive Soulworks maven" />
+      <option name="name" value="Illusive Soulworks maven" />
+      <option name="url" value="https://maven.theillusivec4.top/" />
+    </remote-repository>
   </component>
 </project>
