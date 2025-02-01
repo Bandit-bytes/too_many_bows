@@ -1,0 +1,15 @@
+/enchant Dev minecraft:fire_aspect 1
+/enchant Dev minecraft:infinity
+/enchant Dev minecraft:power
+/time set day
+/enchant Dev minecraft:mending
+/enchant Dev minecraft:power
+/time set day
+/enchant Dev minecraft:infinity
+/summon minecraft:iron_golem
+/time set day
+/enchant Dev minecraft:infinity
+/time set day
+/effect give Dev too_many_bows:cursed_flame
+/effect give Dev too_many_bows:cursed_flame infinite
+/effect give Dev too_many_bows:cursed_flame 100
