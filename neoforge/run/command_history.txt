@@ -13,3 +13,11 @@
 /effect give Dev too_many_bows:cursed_flame
 /effect give Dev too_many_bows:cursed_flame infinite
 /effect give Dev too_many_bows:cursed_flame 100
+/summon minecraft:pig
+/enchant Dev minecraft:infinity
+/summon minecraft:pig
+/summon minecraft:piglin
+/time set day
+/summon minecraft:pig
+/time set day
+/summon minecraft:witch
