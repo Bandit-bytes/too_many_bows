@@ -21,3 +21,6 @@
 /summon minecraft:pig
 /time set day
 /summon minecraft:witch
+/time set day
+/summon minecraft:stray
+/summon minecraft:spider

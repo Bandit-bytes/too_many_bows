@@ -1,5 +1,5 @@
 [Architectury Transformer] Architectury Runtime 5.2.87
-[Architectury Transformer DEBUG] Closed File Systems for D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Closed File Systems for D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.21-1.0.5-dev.jar
 [Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Provided 93 classpath jar(s):
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\fabric-loom\1.21.1\neoforge\21.1.84\client-extra.jar
@@ -95,918 +95,928 @@
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.97.Final\54188f271e388e7f313aea995e82f58ce2cdb809\netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.97.Final\5514744c588190ffda076b35a9b8c9f24946a960\netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar
 [Architectury Transformer DEBUG]  - D:\bandits mod development\too_many_bows1.21\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_1_layered_hash_40359_v2_neoforge_21_1_84_forge\dev\architectury\architectury-neoforge\13.0.8\architectury-neoforge-13.0.8.jar
-[Architectury Transformer] Read classpath in 1.232 s
-[Architectury Transformer DEBUG] Closed File Systems for D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 6 transformer(s) from D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.0.0-dev.jar to C:\Users\noide\AppData\Local\Temp\2909457370284763217.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@606e4010
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@8458f04
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@48075da3
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@68c9133c
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@7a35b0f5
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@5e2c3d18
-[Architectury Transformer DEBUG] Transforming from D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.0.0-dev.jar to C:\Users\noide\AppData\Local\Temp\2909457370284763217.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer] Read classpath in 1.148 s
+[Architectury Transformer DEBUG] Closed File Systems for D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.21-1.0.5-dev.jar
+[Architectury Transformer DEBUG] Transforming 6 transformer(s) from D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.21-1.0.5-dev.jar to C:\Users\noide\AppData\Local\Temp\7056694615152118791.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@1349883
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@4b29d1d2
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7f485fda
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@28261e8e
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@d737b89
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@8519cb4
+[Architectury Transformer DEBUG] Transforming from D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.21-1.0.5-dev.jar to C:\Users\noide\AppData\Local\Temp\7056694615152118791.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/ManyBowsMod with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/ClientInit with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/LightningArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VitalityArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/IroncladArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/LightningArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VitalityArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/FlameArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AuroraArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VenomArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/FlameArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AstralArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/WebstringArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/HunterArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/WindArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/WebstringArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/DuskArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AstralArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/RadianceArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/HunterXPArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/TidalArrowRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SentinelArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/IcicleJavelinRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SpectralArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SentinelArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AncientSageArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/TidalArrowRenderer with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/effect/CursedFlameEffect with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/IcicleJavelin with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/FrostbiteArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SpectralArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/LightningArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VenomArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/ShulkerBlastProjectile with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/FrostbiteArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/LightningArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/IcicleJavelin with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/HunterXPArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/IronCladArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VenomArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/WindProjectile with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/IronCladArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/HunterArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/CursedFlameArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DragonsBreathArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AuroraArrowEntity with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VitalityArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/FlameArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/HunterArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DragonsBreathArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SonicBoomProjectile with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/CursedFlameArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DuskReaperArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AncientSageArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SentinelArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AuroraArrowEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/RiftEntity with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/TidalArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/RiftEntity with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/RadiantArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AstralArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/WebstringArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DuskReaperArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AncientSageArrow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FrostbiteBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HunterBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CrimsonNexusBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IcicleJavelinBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ArcaneBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SolarBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HunterBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SentinelsWrathBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TidalBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CrimsonNexusBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WebstringVolleyBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ShulkerBlastBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IroncladBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantVigorBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SpectralWhisperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SentinelsWrathBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IcicleJavelinBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WebstringVolleyBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DragonsBreathBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AstralBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RadianceBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SolarBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FlameBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AncientSageBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RadianceBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RepairCrystalItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AstralBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedStone with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RepairCrystalItem with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RiftShardItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HeavensBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EmeraldSageBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VitalityWeaverBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ScatterBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BurntRelicBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EtherealHunterBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantViperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WindBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedFlameBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DuskReaperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SonicBoomBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TwinShadowsBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WindBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EtherealHunterBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AuroraBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IroncladBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EmeraldSageBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HeavensBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BurntRelicBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SonicBoomBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ScatterBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TwinShadowsBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VitalityWeaverBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedFlameBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulFragment with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/loot/ModLootModifiers with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/mixin/LivingEntityMixin with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/ItemRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/EntityRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/EffectRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/TabRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/util/AncientSageDamageSource with maxs=true frames=true
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\noide\AppData\Local\Temp\2909457370284763217.jar
-[Architectury Transformer] Listening at D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\noide\AppData\Local\Temp\2909457370284763217.jar] contains packages: net.bandit.many_bows.client, net.bandit.many_bows, net.bandit.many_bows.entity, net.bandit.many_bows.effect, net.bandit.many_bows.mixin, net.bandit.many_bows.util, net.bandit.many_bows.registry, net.bandit.many_bows.client.renderer, net.bandit.many_bows.item
-[Architectury Transformer DEBUG] Closed File Systems for D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\noide\AppData\Local\Temp\7056694615152118791.jar
+[Architectury Transformer] Listening at D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.21-1.0.5-dev.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\noide\AppData\Local\Temp\7056694615152118791.jar] contains packages: net.bandit.many_bows.client, net.bandit.many_bows, net.bandit.many_bows.entity, net.bandit.many_bows.loot, net.bandit.many_bows.effect, net.bandit.many_bows.mixin, net.bandit.many_bows.util, net.bandit.many_bows.registry, net.bandit.many_bows.client.renderer, net.bandit.many_bows.item
+[Architectury Transformer DEBUG] Closed File Systems for D:\bandits mod development\too_many_bows1.21\common\build\devlibs\too_many_bows-common-1.21-1.0.5-dev.jar
 [Architectury Transformer DEBUG] Classpath entry [D:\bandits mod development\too_many_bows1.21\neoforge\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Classpath entry [D:\bandits mod development\too_many_bows1.21\common\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/ManyBowsMod.class to net/bandit/many_bows/ManyBowsMod.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping with Dirty Mappings...
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/ManyBowsMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/ManyBowsMod in 70.80 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/ManyBowsMod in 69.31 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/ItemRegistry.class to net/bandit/many_bows/registry/ItemRegistry.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/ItemRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/ItemRegistry in 25.49 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/ItemRegistry in 24.43 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AncientSageBow.class to net/bandit/many_bows/item/AncientSageBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AncientSageBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AncientSageBow in 22.32 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AncientSageBow in 8.983 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ArcaneBow.class to net/bandit/many_bows/item/ArcaneBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ArcaneBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ArcaneBow in 7.870 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SonicBoomBow.class to net/bandit/many_bows/item/SonicBoomBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SonicBoomBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SonicBoomBow in 5.942 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/FrostbiteBow.class to net/bandit/many_bows/item/FrostbiteBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FrostbiteBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/FrostbiteBow in 6.759 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CrimsonNexusBow.class to net/bandit/many_bows/item/CrimsonNexusBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CrimsonNexusBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CrimsonNexusBow in 7.528 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SoulFragment.class to net/bandit/many_bows/item/SoulFragment.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulFragment with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SoulFragment in 5.639 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DuskReaperBow.class to net/bandit/many_bows/item/DuskReaperBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DuskReaperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DuskReaperBow in 5.245 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/EtherealHunterBow.class to net/bandit/many_bows/item/EtherealHunterBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EtherealHunterBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/EtherealHunterBow in 6.107 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TwinShadowsBow.class to net/bandit/many_bows/item/TwinShadowsBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TwinShadowsBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TwinShadowsBow in 6.236 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ScatterBow.class to net/bandit/many_bows/item/ScatterBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ScatterBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ScatterBow in 6.022 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/WebstringVolleyBow.class to net/bandit/many_bows/item/WebstringVolleyBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WebstringVolleyBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/WebstringVolleyBow in 5.074 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SpectralWhisperBow.class to net/bandit/many_bows/item/SpectralWhisperBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SpectralWhisperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SpectralWhisperBow in 7.209 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/WindBow.class to net/bandit/many_bows/item/WindBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WindBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/WindBow in 5.123 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TidalBow.class to net/bandit/many_bows/item/TidalBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TidalBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TidalBow in 7.211 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedFlameBow.class to net/bandit/many_bows/item/CursedFlameBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedFlameBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedFlameBow in 5.661 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AuroraBow.class to net/bandit/many_bows/item/AuroraBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AuroraBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AuroraBow in 6.526 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AstralBow.class to net/bandit/many_bows/item/AstralBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AstralBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AstralBow in 5.368 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VitalityWeaverBow.class to net/bandit/many_bows/item/VitalityWeaverBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VitalityWeaverBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VitalityWeaverBow in 4.679 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RepairCrystalItem.class to net/bandit/many_bows/item/RepairCrystalItem.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RepairCrystalItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RepairCrystalItem in 2.574 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VerdantVigorBow.class to net/bandit/many_bows/item/VerdantVigorBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantVigorBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VerdantVigorBow in 4.098 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BurntRelicBow.class to net/bandit/many_bows/item/BurntRelicBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BurntRelicBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BurntRelicBow in 3.788 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SentinelsWrathBow.class to net/bandit/many_bows/item/SentinelsWrathBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SentinelsWrathBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SentinelsWrathBow in 3.632 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/EmeraldSageBow.class to net/bandit/many_bows/item/EmeraldSageBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EmeraldSageBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/EmeraldSageBow in 3.241 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/IcicleJavelinBow.class to net/bandit/many_bows/item/IcicleJavelinBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IcicleJavelinBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/IcicleJavelinBow in 2.745 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DragonsBreathBow.class to net/bandit/many_bows/item/DragonsBreathBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DragonsBreathBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DragonsBreathBow in 3.852 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ShulkerBlastBow.class to net/bandit/many_bows/item/ShulkerBlastBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ShulkerBlastBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ShulkerBlastBow in 3.432 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/HeavensBow.class to net/bandit/many_bows/item/HeavensBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HeavensBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/HeavensBow in 3.349 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/HunterBow.class to net/bandit/many_bows/item/HunterBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HunterBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/HunterBow in 3.275 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/IroncladBow.class to net/bandit/many_bows/item/IroncladBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IroncladBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/IroncladBow in 2.882 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VerdantViperBow.class to net/bandit/many_bows/item/VerdantViperBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantViperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VerdantViperBow in 2.842 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SolarBow.class to net/bandit/many_bows/item/SolarBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SolarBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SolarBow in 2.983 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/FlameBow.class to net/bandit/many_bows/item/FlameBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FlameBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/FlameBow in 2.825 ms
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RiftShardItem.class to net/bandit/many_bows/item/RiftShardItem.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RiftShardItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RiftShardItem in 2.700 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ArcaneBow in 4.431 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RadianceBow.class to net/bandit/many_bows/item/RadianceBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RadianceBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RadianceBow in 3.321 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RadianceBow in 7.117 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/FlameBow.class to net/bandit/many_bows/item/FlameBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FlameBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/FlameBow in 7.250 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RiftShardItem.class to net/bandit/many_bows/item/RiftShardItem.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RiftShardItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RiftShardItem in 4.135 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedStone.class to net/bandit/many_bows/item/CursedStone.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedStone with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedStone in 2.241 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedStone in 2.977 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SonicBoomBow.class to net/bandit/many_bows/item/SonicBoomBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SonicBoomBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SonicBoomBow in 6.645 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/FrostbiteBow.class to net/bandit/many_bows/item/FrostbiteBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FrostbiteBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/FrostbiteBow in 6.914 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/HeavensBow.class to net/bandit/many_bows/item/HeavensBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HeavensBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/HeavensBow in 8.820 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DragonsBreathBow.class to net/bandit/many_bows/item/DragonsBreathBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DragonsBreathBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DragonsBreathBow in 6.473 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/HunterBow.class to net/bandit/many_bows/item/HunterBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HunterBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/HunterBow in 6.909 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/IroncladBow.class to net/bandit/many_bows/item/IroncladBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IroncladBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/IroncladBow in 6.055 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BurntRelicBow.class to net/bandit/many_bows/item/BurntRelicBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BurntRelicBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BurntRelicBow in 5.207 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SentinelsWrathBow.class to net/bandit/many_bows/item/SentinelsWrathBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SentinelsWrathBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SentinelsWrathBow in 3.563 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/EmeraldSageBow.class to net/bandit/many_bows/item/EmeraldSageBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EmeraldSageBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/EmeraldSageBow in 3.145 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SolarBow.class to net/bandit/many_bows/item/SolarBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SolarBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SolarBow in 3.982 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/IcicleJavelinBow.class to net/bandit/many_bows/item/IcicleJavelinBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IcicleJavelinBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/IcicleJavelinBow in 3.246 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ShulkerBlastBow.class to net/bandit/many_bows/item/ShulkerBlastBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ShulkerBlastBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ShulkerBlastBow in 7.014 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VerdantViperBow.class to net/bandit/many_bows/item/VerdantViperBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantViperBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VerdantViperBow in 3.132 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DuskReaperBow.class to net/bandit/many_bows/item/DuskReaperBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DuskReaperBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DuskReaperBow in 5.745 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RepairCrystalItem.class to net/bandit/many_bows/item/RepairCrystalItem.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RepairCrystalItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RepairCrystalItem in 4.928 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TwinShadowsBow.class to net/bandit/many_bows/item/TwinShadowsBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TwinShadowsBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TwinShadowsBow in 5.725 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedFlameBow.class to net/bandit/many_bows/item/CursedFlameBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedFlameBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedFlameBow in 5.134 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VerdantVigorBow.class to net/bandit/many_bows/item/VerdantVigorBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantVigorBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VerdantVigorBow in 6.179 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AuroraBow.class to net/bandit/many_bows/item/AuroraBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AuroraBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AuroraBow in 5.386 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CrimsonNexusBow.class to net/bandit/many_bows/item/CrimsonNexusBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CrimsonNexusBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CrimsonNexusBow in 5.360 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VitalityWeaverBow.class to net/bandit/many_bows/item/VitalityWeaverBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VitalityWeaverBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VitalityWeaverBow in 4.723 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/EtherealHunterBow.class to net/bandit/many_bows/item/EtherealHunterBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EtherealHunterBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/EtherealHunterBow in 4.454 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TidalBow.class to net/bandit/many_bows/item/TidalBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TidalBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TidalBow in 3.299 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SpectralWhisperBow.class to net/bandit/many_bows/item/SpectralWhisperBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SpectralWhisperBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SpectralWhisperBow in 3.984 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/WebstringVolleyBow.class to net/bandit/many_bows/item/WebstringVolleyBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WebstringVolleyBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/WebstringVolleyBow in 2.590 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SoulFragment.class to net/bandit/many_bows/item/SoulFragment.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulFragment with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SoulFragment in 3.541 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AstralBow.class to net/bandit/many_bows/item/AstralBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AstralBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AstralBow in 4.945 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/WindBow.class to net/bandit/many_bows/item/WindBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WindBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/WindBow in 3.435 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ScatterBow.class to net/bandit/many_bows/item/ScatterBow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ScatterBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ScatterBow in 4.465 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/TabRegistry.class to net/bandit/many_bows/registry/TabRegistry.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/TabRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/TabRegistry in 3.315 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/TabRegistry in 2.750 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/EntityRegistry.class to net/bandit/many_bows/registry/EntityRegistry.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/EntityRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/EntityRegistry in 3.209 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/EntityRegistry in 2.835 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/EffectRegistry.class to net/bandit/many_bows/registry/EffectRegistry.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/EffectRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/EffectRegistry in 2.524 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/EffectRegistry in 5.773 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/effect/CursedFlameEffect.class to net/bandit/many_bows/effect/CursedFlameEffect.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/effect/CursedFlameEffect with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/effect/CursedFlameEffect in 2.081 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/effect/CursedFlameEffect in 2.060 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/loot/ModLootModifiers.class to net/bandit/many_bows/loot/ModLootModifiers.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/loot/ModLootModifiers with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/loot/ModLootModifiers in 2.504 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/FrostbiteArrow.class to net/bandit/many_bows/entity/FrostbiteArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/FrostbiteArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/FrostbiteArrow in 4.620 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/FrostbiteArrow in 5.497 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/DragonsBreathArrow.class to net/bandit/many_bows/entity/DragonsBreathArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DragonsBreathArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DragonsBreathArrow in 2.728 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DragonsBreathArrow in 4.419 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/SonicBoomProjectile.class to net/bandit/many_bows/entity/SonicBoomProjectile.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SonicBoomProjectile with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SonicBoomProjectile in 2.229 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SonicBoomProjectile in 3.316 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/VenomArrow.class to net/bandit/many_bows/entity/VenomArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VenomArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VenomArrow in 2.351 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VenomArrow in 4.375 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/FlameArrow.class to net/bandit/many_bows/entity/FlameArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/FlameArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/FlameArrow in 3.633 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/FlameArrow in 3.394 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/TidalArrow.class to net/bandit/many_bows/entity/TidalArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/TidalArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/TidalArrow in 3.196 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/TidalArrow in 2.399 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/CursedFlameArrow.class to net/bandit/many_bows/entity/CursedFlameArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/CursedFlameArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/CursedFlameArrow in 2.639 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/CursedFlameArrow in 4.479 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/LightningArrow.class to net/bandit/many_bows/entity/LightningArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/LightningArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/LightningArrow in 3.141 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/LightningArrow in 3.356 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/WindProjectile.class to net/bandit/many_bows/entity/WindProjectile.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/WindProjectile with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/WindProjectile in 2.752 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/WindProjectile in 2.667 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/IcicleJavelin.class to net/bandit/many_bows/entity/IcicleJavelin.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/IcicleJavelin with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/IcicleJavelin in 2.953 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/IcicleJavelin in 4.159 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/HunterArrow.class to net/bandit/many_bows/entity/HunterArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/HunterArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HunterArrow in 2.647 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HunterArrow in 3.829 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/AstralArrow.class to net/bandit/many_bows/entity/AstralArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AstralArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AstralArrow in 2.864 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AstralArrow in 4.335 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/HunterXPArrow.class to net/bandit/many_bows/entity/HunterXPArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/HunterXPArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HunterXPArrow in 2.769 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HunterXPArrow in 3.509 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/AncientSageArrow.class to net/bandit/many_bows/entity/AncientSageArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AncientSageArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AncientSageArrow in 2.338 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AncientSageArrow in 2.373 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/SentinelArrow.class to net/bandit/many_bows/entity/SentinelArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SentinelArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SentinelArrow in 2.540 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SentinelArrow in 2.311 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/VitalityArrow.class to net/bandit/many_bows/entity/VitalityArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VitalityArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VitalityArrow in 2.164 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VitalityArrow in 3.972 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/ShulkerBlastProjectile.class to net/bandit/many_bows/entity/ShulkerBlastProjectile.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/ShulkerBlastProjectile with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/ShulkerBlastProjectile in 2.860 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/ShulkerBlastProjectile in 2.583 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/SpectralArrow.class to net/bandit/many_bows/entity/SpectralArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SpectralArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SpectralArrow in 2.631 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SpectralArrow in 4.736 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/AuroraArrowEntity.class to net/bandit/many_bows/entity/AuroraArrowEntity.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AuroraArrowEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AuroraArrowEntity in 1.675 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AuroraArrowEntity in 3.365 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/RiftEntity.class to net/bandit/many_bows/entity/RiftEntity.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/RiftEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/RiftEntity in 3.003 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/RiftEntity in 3.974 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/RadiantArrow.class to net/bandit/many_bows/entity/RadiantArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/RadiantArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/RadiantArrow in 3.413 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/RadiantArrow in 2.932 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/DuskReaperArrow.class to net/bandit/many_bows/entity/DuskReaperArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DuskReaperArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DuskReaperArrow in 2.821 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DuskReaperArrow in 3.104 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/IronCladArrow.class to net/bandit/many_bows/entity/IronCladArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/IronCladArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/IronCladArrow in 2.261 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/IronCladArrow in 2.892 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/WebstringArrow.class to net/bandit/many_bows/entity/WebstringArrow.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/WebstringArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/WebstringArrow in 1.999 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/WebstringArrow in 2.650 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer.class to net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer in 3.543 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer in 4.672 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/VenomArrowRenderer.class to net/bandit/many_bows/client/renderer/VenomArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VenomArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VenomArrowRenderer in 3.513 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VenomArrowRenderer in 4.450 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/FlameArrowRenderer.class to net/bandit/many_bows/client/renderer/FlameArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/FlameArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/FlameArrowRenderer in 2.188 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/FlameArrowRenderer in 2.479 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer.class to net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer in 1.782 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer in 2.231 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/TidalArrowRenderer.class to net/bandit/many_bows/client/renderer/TidalArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/TidalArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/TidalArrowRenderer in 2.169 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/TidalArrowRenderer in 2.192 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/WindArrowRenderer.class to net/bandit/many_bows/client/renderer/WindArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/WindArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/WindArrowRenderer in 1.978 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/WindArrowRenderer in 2.375 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/LightningArrowRenderer.class to net/bandit/many_bows/client/renderer/LightningArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/LightningArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/LightningArrowRenderer in 1.802 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/LightningArrowRenderer in 2.286 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer.class to net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer in 1.894 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer in 2.264 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer.class to net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer in 1.915 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer in 2.150 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/IcicleJavelinRenderer.class to net/bandit/many_bows/client/renderer/IcicleJavelinRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/IcicleJavelinRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/IcicleJavelinRenderer in 1.984 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/IcicleJavelinRenderer in 1.881 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/HunterArrowRenderer.class to net/bandit/many_bows/client/renderer/HunterArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/HunterArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HunterArrowRenderer in 2.036 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HunterArrowRenderer in 1.826 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/SentinelArrowRenderer.class to net/bandit/many_bows/client/renderer/SentinelArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SentinelArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SentinelArrowRenderer in 1.599 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SentinelArrowRenderer in 1.801 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/HunterXPArrowRenderer.class to net/bandit/many_bows/client/renderer/HunterXPArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/HunterXPArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HunterXPArrowRenderer in 2.063 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HunterXPArrowRenderer in 1.759 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/AncientSageArrowRenderer.class to net/bandit/many_bows/client/renderer/AncientSageArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AncientSageArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AncientSageArrowRenderer in 1.856 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AncientSageArrowRenderer in 1.853 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer.class to net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer in 1.737 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer in 2.784 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/VitalityArrowRenderer.class to net/bandit/many_bows/client/renderer/VitalityArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VitalityArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VitalityArrowRenderer in 1.806 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VitalityArrowRenderer in 2.575 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/AstralArrowRenderer.class to net/bandit/many_bows/client/renderer/AstralArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AstralArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AstralArrowRenderer in 1.847 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AstralArrowRenderer in 1.764 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/SpectralArrowRenderer.class to net/bandit/many_bows/client/renderer/SpectralArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SpectralArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SpectralArrowRenderer in 1.748 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SpectralArrowRenderer in 1.585 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/AuroraArrowRenderer.class to net/bandit/many_bows/client/renderer/AuroraArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AuroraArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AuroraArrowRenderer in 2.183 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AuroraArrowRenderer in 1.585 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/RadianceArrowRenderer.class to net/bandit/many_bows/client/renderer/RadianceArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/RadianceArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/RadianceArrowRenderer in 2.548 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/RadianceArrowRenderer in 1.634 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/DuskArrowRenderer.class to net/bandit/many_bows/client/renderer/DuskArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/DuskArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/DuskArrowRenderer in 2.390 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/DuskArrowRenderer in 1.867 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/WebstringArrowRenderer.class to net/bandit/many_bows/client/renderer/WebstringArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/WebstringArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/WebstringArrowRenderer in 2.539 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/WebstringArrowRenderer in 1.583 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/IroncladArrowRenderer.class to net/bandit/many_bows/client/renderer/IroncladArrowRenderer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/IroncladArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/IroncladArrowRenderer in 1.947 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/IroncladArrowRenderer in 1.701 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/ClientInit.class to net/bandit/many_bows/client/ClientInit.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000011529084910@353352b6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001c79c084910@68c9133c
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/ClientInit with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/ClientInit in 24.01 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/ClientInit in 21.52 ms
