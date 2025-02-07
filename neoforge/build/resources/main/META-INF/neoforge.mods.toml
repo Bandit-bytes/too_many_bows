@@ -5,7 +5,7 @@ license = "Insert License Here"
 
 [[mods]]
 modId = "too_many_bows"
-version = "1.21-1.0.6"
+version = "1.21-1.0.8"
 displayName = "Too Many Bows"
 authors = "Me!"
 description = '''
