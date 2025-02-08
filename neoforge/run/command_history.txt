@@ -24,3 +24,17 @@
 /time set day
 /summon minecraft:stray
 /summon minecraft:spider
+/summon minecraft:pig
+/effect give Dev too_many_bows:cursed_flame 5
+/effect give Dev too_many_bows:cursed_flame 50
+/time set day
+/effect clear
+/effect give Dev too_many_bows:cursed_flame 50
+/effect clear
+/effect give Dev too_many_bows:cursed_flame infinite
+/effect clear
+/effect give Dev too_many_bows:cursed_flame infinite
+/effect clear
+/time set midnight
+/advancement grant Dev from too_many_bows:root
+/advancement revoke Dev from too_many_bows:root
