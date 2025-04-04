@@ -1,8 +1,0 @@
-/enchant Player882 minecraft:power
-/loot give Player534 loot minecraft:chests/simple_dungeon
-/loot give Player534 loot minecraft:chests/abandoned_mineshaft
-/loot give Player542 loot minecraft:chests/abandoned_mineshaft
-/loot insert 220 72 243
-/loot insert 220 72 243 loot minecraft:chests/simple_dungeon
-/loot insert 222 72 243 loot minecraft:chests/simple_dungeon
-/loot insert 218 72 243 loot minecraft:chests/simple_dungeon
