@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "too_many_bows:aethers_call": 1,
+      "too_many_bows:dark_bow": 5,
+      "too_many_bows:vaultpiercer": 1,
+      "too_many_bows:scatter_bow": 1,
+      "too_many_bows:gravewire_bow": 1,
+      "too_many_bows:wind_bow": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 12,
+      "minecraft:time_since_rest": 3832,
+      "minecraft:walk_one_cm": 183,
+      "minecraft:total_world_time": 3170,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 1916,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 1916
+    }
+  },
+  "DataVersion": 4790
+}

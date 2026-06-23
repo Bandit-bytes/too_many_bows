@@ -1,0 +1,32 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-22 21:56:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2026-06-22 21:56:15 -0400"
+    },
+    "done": false
+  },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2026-06-22 21:57:35 -0400"
+    },
+    "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "scatter_bow": "2026-06-22 21:57:46 -0400",
+      "vaultpiercer": "2026-06-22 21:57:36 -0400",
+      "gravewire": "2026-06-22 21:57:38 -0400",
+      "dark_bow": "2026-06-22 21:57:51 -0400",
+      "aethers_call": "2026-06-22 21:57:35 -0400",
+      "wind_bow": "2026-06-22 21:57:39 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 4790
+}

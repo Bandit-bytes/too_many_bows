@@ -1,0 +1,6 @@
+{
+  "globalBowPowerMultiplier": 1.0,
+  "globalBowPullSpeed": 16.0,
+  "enableChestLoot": true,
+  "lootChanceMultiplier": 1.0
+}

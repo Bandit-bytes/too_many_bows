@@ -1,0 +1,160 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 2026-06-22 21:57:54
+Description: Unexpected error
+
+java.lang.NullPointerException: Cannot invoke "net.minecraft.client.renderer.entity.EntityRenderer.shouldRender(net.minecraft.world.entity.Entity, net.minecraft.client.renderer.culling.Frustum, double, double, double)" because "renderer" is null
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.renderer.entity.EntityRenderDispatcher.shouldRender(EntityRenderDispatcher.java:129) ~[neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.renderer.LevelRenderer.extractVisibleEntities(LevelRenderer.java:873) ~[neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.renderer.LevelRenderer.extractLevel(LevelRenderer.java:586) ~[neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.renderer.GameRenderer.extract(GameRenderer.java:421) ~[neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.Minecraft.renderFrame(Minecraft.java:1377) [neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer,neoforge:access_transformer,neoforge:mixin[APP:architectury.mixins.json:MixinMinecraft from mod architectury]}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.Minecraft.runTick(Minecraft.java:1329) [neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer,neoforge:access_transformer,neoforge:mixin[APP:architectury.mixins.json:MixinMinecraft from mod architectury]}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.Minecraft.run(Minecraft.java:937) [neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer,neoforge:access_transformer,neoforge:mixin[APP:architectury.mixins.json:MixinMinecraft from mod architectury]}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.main.Main.main(Main.java:246) [neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {}
+	at net.neoforged.fml.startup.Client.main(Client.java:19) [loader-11.0.13.jar:11.0] {}
+	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) [dev-launch-injector-0.2.1+build.8.jar:?] {}
+	at dev.architectury.transformer.TransformerRuntime.main(TransformerRuntime.java:220) [architectury-transformer-5.2.91-runtime.jar:5.2.91] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.renderer.entity.EntityRenderDispatcher.shouldRender(EntityRenderDispatcher.java:129) ~[neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.renderer.LevelRenderer.extractVisibleEntities(LevelRenderer.java:873) ~[neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.renderer.LevelRenderer.extractLevel(LevelRenderer.java:586) ~[neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.renderer.GameRenderer.extract(GameRenderer.java:421) ~[neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer}
+-- Uptime --
+Details:
+	JVM uptime: 137.195s
+	Wall uptime: 125.588s
+	High-res time: 133.591s
+	Client ticks: 2453 ticks / 122.650s
+Stacktrace:
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.Minecraft.fillReport(Minecraft.java:2472) [neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer,neoforge:access_transformer,neoforge:mixin[APP:architectury.mixins.json:MixinMinecraft from mod architectury]}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.Minecraft.emergencySaveAndCrash(Minecraft.java:992) [neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer,neoforge:access_transformer,neoforge:mixin[APP:architectury.mixins.json:MixinMinecraft from mod architectury]}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.Minecraft.run(Minecraft.java:960) [neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {neoforge:access_transformer,neoforge:access_transformer,neoforge:mixin[APP:architectury.mixins.json:MixinMinecraft from mod architectury]}
+	at TRANSFORMER/minecraft@26.1.2/net.minecraft.client.main.Main.main(Main.java:246) [neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.jar:?] {}
+	at net.neoforged.fml.startup.Client.main(Client.java:19) [loader-11.0.13.jar:11.0] {}
+	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) [dev-launch-injector-0.2.1+build.8.jar:?] {}
+	at dev.architectury.transformer.TransformerRuntime.main(TransformerRuntime.java:220) [architectury-transformer-5.2.91-runtime.jar:5.2.91] {}
+
+
+-- Affected level --
+Details:
+	All players: 1 total; LocalPlayer{name=Dev, id=13, pos=(38.5, 81.0, -61.5), mode=CREATIVE, permission=owner}
+	Chunk stats: 1521, 1057
+	Level dimension: minecraft:overworld
+	Level time: 741 game time, 740 day time
+	Level spawn location: World: (32,76,-64), Section: (at 0,12,0 in 2,4,-4; chunk contains blocks 32,-64,-64 to 47,319,-49), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,-64,-512 to 511,319,-1)
+	Server brand: neoforge
+	Server type: Integrated singleplayer server
+	Tracked entity count: 138
+	Client weather: Raining: false, thundering: false
+
+-- Last reload --
+Details:
+	Reload number: 1
+	Reload reason: initial
+	Finished: Yes
+	Packs: vanilla, mod_resources, mod/curios, mod/generated_6969330, mod/architectury, mod/too_many_bows, mod/neoforge
+
+-- System Details --
+Details:
+	Minecraft Version: 26.1.2
+	Minecraft Version ID: 26.1.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 25.0.3, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 477558928 bytes (455 MiB) / 2411724800 bytes (2300 MiB) up to 8568963072 bytes (8172 MiB)
+	Memory (heap): init: 512MiB, used: 1837MiB, committed: 2300MiB, max: 8172MiB
+	Memory (non-head): init: 007MiB, used: 231MiB, committed: 257MiB, max: 000MiB
+	CPUs: 24
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 9 5900X 12-Core Processor            
+	Identifier: AuthenticAMD Family 25 Model 33 Stepping 0
+	Microarchitecture: Zen 3
+	Frequency (GHz): 3.69
+	Number of physical packages: 1
+	Number of physical CPUs: 12
+	Number of logical CPUs: 24
+	Graphics card #0 name: NVIDIA GeForce RTX 3070 Ti
+	Graphics card #0 vendor: NVIDIA
+	Graphics card #0 VRAM (MiB): 8192.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.15.9649
+	Memory slot #0 capacity (MiB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 2.67
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 2.67
+	Memory slot #1 type: DDR4
+	Memory slot #2 capacity (MiB): 8192.00
+	Memory slot #2 clockSpeed (GHz): 2.67
+	Memory slot #2 type: DDR4
+	Memory slot #3 capacity (MiB): 8192.00
+	Memory slot #3 clockSpeed (GHz): 2.67
+	Memory slot #3 type: DDR4
+	Virtual memory max (MiB): 35369.23
+	Virtual memory used (MiB): 29626.03
+	Swap memory total (MiB): 2688.00
+	Swap memory used (MiB): 133.91
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 132311.88, total: 952773.06
+	Space in storage for workdir (MiB): available: 1884967.75, total: 1907712.00
+	JVM Flags: 0 total; 
+	Debug Flags: 0 total; 
+	Launched Version: 26.1.2.76
+	Backend library: LWJGL version 3.4.1+2
+	Backend API: NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2 GL version 3.3.0 NVIDIA 596.49, NVIDIA Corporation
+	Window size: 2560x1009
+	GFLW Platform: win32
+	Render Extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access, GL_EXT_texture_filter_anisotropic
+	GL debug messages: 
+	Is Modded: Definitely; Client brand changed to 'neoforge'; Server brand changed to 'neoforge'
+	Universe: 400921fb54442d18
+	Type: Integrated Server
+	Transparency: regular
+	Render Distance: 16/16 chunks
+	Resource Packs: vanilla, mod_resources, mod/curios (incompatible), mod/generated_6969330 (incompatible), mod/architectury (incompatible), mod/too_many_bows, mod/neoforge (incompatible)
+	Sound Cache: 2297674 bytes in 11 buffers
+	Current Language: en_us
+	Locale: en_US
+	System encoding: Cp1252
+	File encoding: UTF-8
+	CPU: 24x AMD Ryzen 9 5900X 12-Core Processor 
+	Server Running: true
+	Player Count: 1 / 8; [ServerPlayer['Dev'/13, l='ServerLevel[New World]', x=38.50, y=81.00, z=-61.50]]
+	Active Data Packs: vanilla, mod_data, mod/curios (incompatible), mod/generated_6969330 (incompatible), mod/architectury (incompatible), mod/too_many_bows, mod/neoforge
+	Available Data Packs: minecart_improvements, redstone_experiments, trade_rebalance, vanilla, mod/architectury (incompatible), mod/curios (incompatible), mod/generated_6969330 (incompatible), mod/neoforge, mod/too_many_bows, mod_data
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: 3761162789408503134
+	Suppressed Exceptions: ~~NONE~~
+	Class Processors: 
+		00.00%: neoforge:neoforge_dev_dist_cleaner
+		00.00%: neoforge:computing_frames (marker)
+		00.00%: neoforge:runtime_enum_extender
+		04.34%: neoforge:access_transformer
+		00.34%: neoforge:mixin
+		00.00%: neoforge:simple_processors_default (marker)
+		00.01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.biome.biome
+		00.01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.block.flowerpotblock
+		00.01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.levelgen.structure.structure
+		00.26%: neoforge.coremods:method_redirector
+	Mod List: 
+		architectury-neoforge-20.0.7.jar                  |Architectury                  |architectury                  |20.0.7              |Manifest: 6da61a369f6336746b6bdad74a82dddcd97217ee05f2a12fadad91d9aa00463b
+		curios-neoforge-15.0.0-beta.2+26.1.2.jar          |Curios API                    |curios                        |15.0.0-beta.2+26.1.2|Manifest: dd19b0964a615f0771b177eff668f45de5ffd9e8443937b598a5dd35c4a63136
+		3193942887242614832.jar                           |generated_6969330             |generated_6969330             |1                   |Manifest: f48b93e8ce7dab3c12b6188a9a0b73e9242d6687fca0efc9ad466763e9616e4c
+		neoforge-26.1.2.76-minecraft-merged-deobf-26.1.2.j|Minecraft                     |minecraft                     |26.1.2              |Manifest: NOSIGNATURE
+		forge-universal.jar                               |NeoForge                      |neoforge                      |26.1.2.76           |Manifest: NOSIGNATURE
+		main                                              |Too Many Bows                 |too_many_bows                 |1.0.0-26.1.2        |Manifest: NOSIGNATURE
+	Crash Report UUID: 4105752b-1aa3-4ce9-a7df-97eb48b0381b
+	FML: 11.0.13
+	NeoForge: 26.1.2.76
