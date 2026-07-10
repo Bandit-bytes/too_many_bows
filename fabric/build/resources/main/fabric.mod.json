@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "too_many_bows",
-  "version": "1.0.0-26.1.2",
+  "version": "1.1.0-26.1.2",
   "name": "Too Many Bows",
   "description": "Adds a large collection of unique bows, projectiles, accessories, and abilities.",
   "authors": [
@@ -28,6 +28,6 @@
     "java": ">=25",
     "architectury": ">=20.0.7",
     "fabric-api": "*",
-    "trinkets": ">=3.12.0"
+    "trinkets_updated": ">=4.0.0-beta.3"
   }
 }

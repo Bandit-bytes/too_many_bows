@@ -1,13 +1,17 @@
 [Architectury Transformer] Architectury Runtime 5.2.91
 [Architectury Transformer DEBUG] Closed File Systems for D:\SolidState Driver\bandits mod development\26_Too Many Bows\common\build\libs\Too_Many_Bows-common-1.0.0-26.1.2-dev.jar
 [Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Provided 113 classpath jar(s):
+[Architectury Transformer DEBUG] Provided 117 classpath jar(s):
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\dev.architectury\architectury-fabric\20.0.7\d860c9e9cb5c44fb638a0f92dedd0c66bc12901\architectury-fabric-20.0.7.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\net.fabricmc.fabric-api\fabric-api\0.153.0+26.1.2\5d984764e54f1f1db397d3f76429a0f15e591845\fabric-api-0.153.0+26.1.2.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\dev.architectury\architectury-injectables\1.0.10\62db2a366d662606d1b23ad02ccc3212ed37ec3\architectury-injectables-1.0.10.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\net.fabricmc\fabric-loader\0.19.3\354dfaa02d0552e11867f85dff7cdbfaf813ba3e\fabric-loader-0.19.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\eu.pb4\trinkets\4.0.0-beta.3+26.1\ce7881cba4757fd1ecc0e20932ab37670fd22557\trinkets-4.0.0-beta.3+26.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\dev.yumi.mc.core\yumi-mc-foundation\1.0.1+26.1\e18afc143a47014c1e68a8067f42915ba2ff8148\yumi-mc-foundation-1.0.1+26.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\dev.yumi.commons\yumi-commons-event\2.0.0\1e5b42131c6b9c08bbcfbb29e119e254ce0248cb\yumi-commons-event-2.0.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\dev.yumi.commons\yumi-commons-collections\2.0.0\f449d184673fd602bf371cb1efa81c751d17bee0\yumi-commons-collections-2.0.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\dev.yumi.commons\yumi-commons-core\2.0.0\f5efa034fed033bf8cdc3c4c09a52d99d1b4772d\yumi-commons-core-2.0.0.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\26.0.2\c7ce3cdeda3d18909368dfe5977332dfad326c6d\annotations-26.0.2.jar
-[Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\maven.modrinth\trinkets-continued\3.12.0-26.1\b0b968cd2b525e250981940de9cf4106e190129b\trinkets-continued-3.12.0-26.1.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.10.1\ada2141c0cc52ee8f5c48cd5fa4ce0e794f22236\asm-9.10.1.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.10.1\8d49f14d51f632cb1d87c88d1ceaf50db0d8af1b\asm-analysis-9.10.1.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.10.1\4229e4c55fd8e01c23f9fe9884075cc628aacc50\asm-commons-9.10.1.jar
@@ -65,7 +69,7 @@
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.4.1\562697d40dbd2ed0424bf24dcf65d51170f81adf\lwjgl-tinyfd-3.4.1.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.4.1\6105690714874b995aa7812e4f7732a21109276c\lwjgl-3.4.1.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.17\d9e58ac9c7779ba3bf8142aff6c830617a7fe60f\slf4j-api-2.0.17.jar
-[Architectury Transformer DEBUG]  - D:\SolidState Driver\bandits mod development\26_Too Many Bows\.gradle\loom-cache\minecraftMaven\net\minecraft\minecraft-merged-98f915c5ab\26.1.2\minecraft-merged-98f915c5ab-26.1.2.jar
+[Architectury Transformer DEBUG]  - D:\SolidState Driver\bandits mod development\26_Too Many Bows\.gradle\loom-cache\minecraftMaven\net\minecraft\minecraft-merged-238b726c24\26.1.2\minecraft-merged-238b726c24-26.1.2.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.2.7.Final\e83998bfc10b5289d9bcbe807c4079ef0eed8e6f\netty-transport-native-epoll-4.2.7.Final-linux-x86_64.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.2.7.Final\98d02251c98c8f07a23ac5ea27657d9e0ef57614\netty-transport-native-epoll-4.2.7.Final-linux-aarch_64.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-kqueue\4.2.7.Final\40868fd4e43bce2798245f790624b58803dc26b6\netty-transport-native-kqueue-4.2.7.Final-osx-x86_64.jar
@@ -115,15 +119,15 @@
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\net.fabricmc.fabric-api\fabric-serialization-api-v1\2.0.3+11a26f314c\55fc25d96a2a848b93a02f48220dff0181ec3056\fabric-serialization-api-v1-2.0.3+11a26f314c.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\net.fabricmc.fabric-api\fabric-sound-api-v1\2.0.4+11a26f314c\b63ce87810bc5aa495cb39be7efd2b07e6772822\fabric-sound-api-v1-2.0.4+11a26f314c.jar
 [Architectury Transformer DEBUG]  - C:\Users\noide\.gradle\caches\modules-2\files-2.1\net.fabricmc.fabric-api\fabric-transitive-access-wideners-v1\8.1.1+7f80f93d4c\f2c5df8d0601978094cc557b78b3c5aafcc4f40f\fabric-transitive-access-wideners-v1-8.1.1+7f80f93d4c.jar
-[Architectury Transformer] Read classpath in 1.063 s
+[Architectury Transformer] Read classpath in 1.125 s
 [Architectury Transformer DEBUG] Closed File Systems for D:\SolidState Driver\bandits mod development\26_Too Many Bows\common\build\libs\Too_Many_Bows-common-1.0.0-26.1.2-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\SolidState Driver\bandits mod development\26_Too Many Bows\common\build\libs\Too_Many_Bows-common-1.0.0-26.1.2-dev.jar to C:\Users\noide\AppData\Local\Temp\7989357314994701822.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@14008db3
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@78a773fd
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@57c03d88
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@16aa8654
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@6d7fc27
-[Architectury Transformer DEBUG] Transforming from D:\SolidState Driver\bandits mod development\26_Too Many Bows\common\build\libs\Too_Many_Bows-common-1.0.0-26.1.2-dev.jar to C:\Users\noide\AppData\Local\Temp\7989357314994701822.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\SolidState Driver\bandits mod development\26_Too Many Bows\common\build\libs\Too_Many_Bows-common-1.0.0-26.1.2-dev.jar to C:\Users\noide\AppData\Local\Temp\8683973822689830739.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@7ef27d7f
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@490caf5f
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@6337c201
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5c669da8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@31920ade
+[Architectury Transformer DEBUG] Transforming from D:\SolidState Driver\bandits mod development\26_Too Many Bows\common\build\libs\Too_Many_Bows-common-1.0.0-26.1.2-dev.jar to C:\Users\noide\AppData\Local\Temp\8683973822689830739.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/ManyBowsMod with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/ClientTooltipHelper with maxs=true frames=true
@@ -172,15 +176,22 @@
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/common/LanternLightHelper with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/common/SoulLanternCompatHelper with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/AccessoryBalance with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowConfigRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowJsonConfigHelper$ReloadEntry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowJsonConfigHelper with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowLootConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/ConfigEntry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/ManyBowsConfigHolder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/PlatformCompatReloadRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/AethersCallBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/AncientSageBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/ArcaneBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/AstralBoundBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/AurorasGraceBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/BeaconBeamBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/BurntRelicBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/CrimsonNexusBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/DemonsGraspBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/DragonsBreathBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/DuskReaperBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/EtherealHunterBowConfig with maxs=true frames=true
@@ -194,6 +205,7 @@
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/LightningBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/NecroFlameBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/RadiantBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/ScatterBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/SentinelWrathBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/ShulkerBlastBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/SolarBowConfig with maxs=true frames=true
@@ -202,8 +214,10 @@
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/SpectralWhisperBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/TidalBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/TorchbearerBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/TwinShadowsBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/VaultpiercerBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/VenomBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/VerdantVigorBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/VitalityWeaverBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/WebstringBowConfig with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/WindBowConfig with maxs=true frames=true
@@ -296,8 +310,6 @@
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VitalityWeaverBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WebstringVolleyBow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WindBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/loot/ModLootModifiers$LootTier with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/loot/ModLootModifiers$ResolvedLootTier with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/loot/ModLootModifiers with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/mixin/AbstractArrowAccessor with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/mixin/EntityWaterExtinguishMixin with maxs=true frames=true
@@ -309,488 +321,652 @@
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/SoundRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/TabRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /too_many_bows.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\noide\AppData\Local\Temp\7989357314994701822.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\noide\AppData\Local\Temp\8683973822689830739.jar
 [Architectury Transformer] Listening at D:\SolidState Driver\bandits mod development\26_Too Many Bows\common\build\libs\Too_Many_Bows-common-1.0.0-26.1.2-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\noide\AppData\Local\Temp\7989357314994701822.jar] contains packages: net.bandit.many_bows.client, net.bandit.many_bows, net.bandit.many_bows.mixin, net.bandit.many_bows.client.model, net.bandit.many_bows.registry, net.bandit.many_bows.item, net.bandit.many_bows.config.bows, net.bandit.many_bows.entity, net.bandit.many_bows.loot, net.bandit.many_bows.effect, net.bandit.many_bows.common, net.bandit.many_bows.client.renderer, net.bandit.many_bows.config, net.bandit.many_bows.command
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\noide\AppData\Local\Temp\8683973822689830739.jar] contains packages: net.bandit.many_bows.client, net.bandit.many_bows, net.bandit.many_bows.mixin, net.bandit.many_bows.client.model, net.bandit.many_bows.registry, net.bandit.many_bows.item, net.bandit.many_bows.config.bows, net.bandit.many_bows.entity, net.bandit.many_bows.loot, net.bandit.many_bows.effect, net.bandit.many_bows.common, net.bandit.many_bows.client.renderer, net.bandit.many_bows.config, net.bandit.many_bows.command
 [Architectury Transformer DEBUG] Closed File Systems for D:\SolidState Driver\bandits mod development\26_Too Many Bows\common\build\libs\Too_Many_Bows-common-1.0.0-26.1.2-dev.jar
-[Architectury Transformer DEBUG] Classpath entry [D:\SolidState Driver\bandits mod development\26_Too Many Bows\fabric\build\classes\java\main] contains packages: net.bandit.many_bows.fabric, net.bandit.many_bows.fabric.client, net.bandit.many_bows.fabric.client.trinkets, net.bandit.many_bows.fabric.trinkets
+[Architectury Transformer DEBUG] Classpath entry [D:\SolidState Driver\bandits mod development\26_Too Many Bows\fabric\build\classes\java\main] contains packages: net.bandit.many_bows.fabric.config, net.bandit.many_bows.fabric, net.bandit.many_bows.fabric.client, net.bandit.many_bows.fabric.client.trinkets, net.bandit.many_bows.fabric.trinkets
 [Architectury Transformer DEBUG] Classpath entry [D:\SolidState Driver\bandits mod development\26_Too Many Bows\fabric\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/mixin/AbstractArrowAccessor.class to net/bandit/many_bows/mixin/AbstractArrowAccessor.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/mixin/AbstractArrowAccessor with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/mixin/AbstractArrowAccessor in 784.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/mixin/AbstractArrowAccessor in 1.005 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/EffectRegistry.class to net/bandit/many_bows/registry/EffectRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/EffectRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/EffectRegistry in 829.7 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/EffectRegistry in 979.9 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/effect/CursedFlameEffect.class to net/bandit/many_bows/effect/CursedFlameEffect.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/effect/CursedFlameEffect with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/effect/CursedFlameEffect in 171.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/effect/CursedFlameEffect in 464.0 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/PlatformCompatReloadRegistry.class to net/bandit/many_bows/config/PlatformCompatReloadRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/PlatformCompatReloadRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/PlatformCompatReloadRegistry in 890.6 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/ManyBowsMod.class to net/bandit/many_bows/ManyBowsMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/ManyBowsMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/ManyBowsMod in 362.6 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/ManyBowsConfigHolder.class to net/bandit/many_bows/config/ManyBowsConfigHolder.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/ManyBowsConfigHolder with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/ManyBowsConfigHolder in 195.2 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/BowLootConfig.class to net/bandit/many_bows/config/BowLootConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowLootConfig with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/BowLootConfig in 414.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/ManyBowsMod in 283.8 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/ItemRegistry.class to net/bandit/many_bows/registry/ItemRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/ItemRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/ItemRegistry in 1.194 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/ItemRegistry in 2.252 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RiftShardItem.class to net/bandit/many_bows/item/RiftShardItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RiftShardItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RiftShardItem in 208.3 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RiftShardItem in 203.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RepairCrystalItem.class to net/bandit/many_bows/item/RepairCrystalItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RepairCrystalItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RepairCrystalItem in 156.2 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BowNecklaceItem.class to net/bandit/many_bows/item/BowNecklaceItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BowNecklaceItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BowNecklaceItem in 254.5 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BowDamageRingItem.class to net/bandit/many_bows/item/BowDamageRingItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BowDamageRingItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BowDamageRingItem in 278.3 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RepairCrystalItem in 159.6 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DrawSpeedGloveItem.class to net/bandit/many_bows/item/DrawSpeedGloveItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DrawSpeedGloveItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DrawSpeedGloveItem in 176.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DrawSpeedGloveItem in 286.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BowDamageRingItem.class to net/bandit/many_bows/item/BowDamageRingItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BowDamageRingItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BowDamageRingItem in 428.3 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BowNecklaceItem.class to net/bandit/many_bows/item/BowNecklaceItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BowNecklaceItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BowNecklaceItem in 267.7 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/FrostbiteBow.class to net/bandit/many_bows/item/FrostbiteBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FrostbiteBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/FrostbiteBow in 603.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/FrostbiteBow in 1.842 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ModBowItem.class to net/bandit/many_bows/item/ModBowItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ModBowItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ModBowItem in 442.9 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ShulkerBlastBow.class to net/bandit/many_bows/item/ShulkerBlastBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ShulkerBlastBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ShulkerBlastBow in 475.3 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SentinelBow.class to net/bandit/many_bows/item/SentinelBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SentinelBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SentinelBow in 720.5 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedLanternItem.class to net/bandit/many_bows/item/CursedLanternItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedLanternItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedLanternItem in 171.0 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RadianceBow.class to net/bandit/many_bows/item/RadianceBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RadianceBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RadianceBow in 462.5 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/HunterBow.class to net/bandit/many_bows/item/HunterBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HunterBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/HunterBow in 504.9 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VitalityWeaverBow.class to net/bandit/many_bows/item/VitalityWeaverBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VitalityWeaverBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VitalityWeaverBow in 451.8 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VerdantVigorBow.class to net/bandit/many_bows/item/VerdantVigorBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantVigorBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VerdantVigorBow in 522.4 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SpectralWhisperBow.class to net/bandit/many_bows/item/SpectralWhisperBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SpectralWhisperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SpectralWhisperBow in 392.2 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SoulLanternItem.class to net/bandit/many_bows/item/SoulLanternItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulLanternItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SoulLanternItem in 160.1 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SoulhoardBow.class to net/bandit/many_bows/item/SoulhoardBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulhoardBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SoulhoardBow in 702.4 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VerdantViperBow.class to net/bandit/many_bows/item/VerdantViperBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantViperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VerdantViperBow in 624.1 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/GravewireBow.class to net/bandit/many_bows/item/GravewireBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/GravewireBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/GravewireBow in 563.5 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/WindBow.class to net/bandit/many_bows/item/WindBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WindBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/WindBow in 483.6 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VaultpiercerBow.class to net/bandit/many_bows/item/VaultpiercerBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VaultpiercerBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VaultpiercerBow in 555.8 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TidalBow.class to net/bandit/many_bows/item/TidalBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TidalBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TidalBow in 463.5 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TwinShadowsBow.class to net/bandit/many_bows/item/TwinShadowsBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TwinShadowsBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TwinShadowsBow in 487.9 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ScatterBow.class to net/bandit/many_bows/item/ScatterBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ScatterBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ScatterBow in 511.8 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SolarBow.class to net/bandit/many_bows/item/SolarBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SolarBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SolarBow in 485.5 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/IroncladBow.class to net/bandit/many_bows/item/IroncladBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IroncladBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/IroncladBow in 523.2 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ModBowItem in 966.5 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/WebstringVolleyBow.class to net/bandit/many_bows/item/WebstringVolleyBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WebstringVolleyBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/WebstringVolleyBow in 509.5 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TorchbearerBow.class to net/bandit/many_bows/item/TorchbearerBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TorchbearerBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TorchbearerBow in 442.9 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SonicBoomBow.class to net/bandit/many_bows/item/SonicBoomBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SonicBoomBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SonicBoomBow in 462.4 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/IcicleJavelinBow.class to net/bandit/many_bows/item/IcicleJavelinBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IcicleJavelinBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/IcicleJavelinBow in 447.1 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/HeavensBow.class to net/bandit/many_bows/item/HeavensBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HeavensBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/HeavensBow in 394.8 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AethersCall.class to net/bandit/many_bows/item/AethersCall.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AethersCall with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AethersCall in 391.3 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/FlameBow.class to net/bandit/many_bows/item/FlameBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FlameBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/FlameBow in 439.2 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SoulFragment.class to net/bandit/many_bows/item/SoulFragment.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulFragment with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SoulFragment in 155.3 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DragonsBreathBow.class to net/bandit/many_bows/item/DragonsBreathBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DragonsBreathBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DragonsBreathBow in 440.1 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DuskReaperBow.class to net/bandit/many_bows/item/DuskReaperBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DuskReaperBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DuskReaperBow in 529.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/WebstringVolleyBow in 1.495 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/EtherealHunterBow.class to net/bandit/many_bows/item/EtherealHunterBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EtherealHunterBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/EtherealHunterBow in 395.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/EtherealHunterBow in 978.3 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TwinShadowsBow.class to net/bandit/many_bows/item/TwinShadowsBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TwinShadowsBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TwinShadowsBow in 721.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ScatterBow.class to net/bandit/many_bows/item/ScatterBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ScatterBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ScatterBow in 859.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SolarBow.class to net/bandit/many_bows/item/SolarBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SolarBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SolarBow in 805.0 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedLanternItem.class to net/bandit/many_bows/item/CursedLanternItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedLanternItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedLanternItem in 211.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SoulhoardBow.class to net/bandit/many_bows/item/SoulhoardBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulhoardBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SoulhoardBow in 1.264 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VerdantVigorBow.class to net/bandit/many_bows/item/VerdantVigorBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantVigorBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VerdantVigorBow in 1.201 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TidalBow.class to net/bandit/many_bows/item/TidalBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TidalBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TidalBow in 1.034 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ShulkerBlastBow.class to net/bandit/many_bows/item/ShulkerBlastBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ShulkerBlastBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ShulkerBlastBow in 865.5 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/WindBow.class to net/bandit/many_bows/item/WindBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/WindBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/WindBow in 848.5 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SoulLanternItem.class to net/bandit/many_bows/item/SoulLanternItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulLanternItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SoulLanternItem in 193.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VitalityWeaverBow.class to net/bandit/many_bows/item/VitalityWeaverBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VitalityWeaverBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VitalityWeaverBow in 869.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/IroncladBow.class to net/bandit/many_bows/item/IroncladBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IroncladBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/IroncladBow in 777.0 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/FlameBow.class to net/bandit/many_bows/item/FlameBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/FlameBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/FlameBow in 829.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SentinelBow.class to net/bandit/many_bows/item/SentinelBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SentinelBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SentinelBow in 718.5 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VerdantViperBow.class to net/bandit/many_bows/item/VerdantViperBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VerdantViperBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VerdantViperBow in 869.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/GravewireBow.class to net/bandit/many_bows/item/GravewireBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/GravewireBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/GravewireBow in 876.9 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/VaultpiercerBow.class to net/bandit/many_bows/item/VaultpiercerBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/VaultpiercerBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/VaultpiercerBow in 937.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/TorchbearerBow.class to net/bandit/many_bows/item/TorchbearerBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/TorchbearerBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/TorchbearerBow in 696.0 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SpectralWhisperBow.class to net/bandit/many_bows/item/SpectralWhisperBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SpectralWhisperBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SpectralWhisperBow in 418.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/RadianceBow.class to net/bandit/many_bows/item/RadianceBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/RadianceBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/RadianceBow in 461.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/HunterBow.class to net/bandit/many_bows/item/HunterBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HunterBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/HunterBow in 497.9 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/EmeraldSageBow.class to net/bandit/many_bows/item/EmeraldSageBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/EmeraldSageBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/EmeraldSageBow in 365.1 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedFlameBow.class to net/bandit/many_bows/item/CursedFlameBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedFlameBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedFlameBow in 513.7 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BeaconBeamBow.class to net/bandit/many_bows/item/BeaconBeamBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BeaconBeamBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BeaconBeamBow in 516.9 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BurntRelicBow.class to net/bandit/many_bows/item/BurntRelicBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BurntRelicBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BurntRelicBow in 558.1 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DemonsGrasp.class to net/bandit/many_bows/item/DemonsGrasp.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DemonsGrasp with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DemonsGrasp in 330.7 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AuroraBow.class to net/bandit/many_bows/item/AuroraBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AuroraBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AuroraBow in 415.3 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/EmeraldSageBow in 423.0 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AstralBow.class to net/bandit/many_bows/item/AstralBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AstralBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AstralBow in 499.7 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ArcaneBow.class to net/bandit/many_bows/item/ArcaneBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AstralBow in 469.9 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BurntRelicBow.class to net/bandit/many_bows/item/BurntRelicBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ArcaneBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ArcaneBow in 480.0 μs
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BurntRelicBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BurntRelicBow in 679.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedFlameBow.class to net/bandit/many_bows/item/CursedFlameBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedFlameBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedFlameBow in 958.7 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DragonsBreathBow.class to net/bandit/many_bows/item/DragonsBreathBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DragonsBreathBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DragonsBreathBow in 665.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DuskReaperBow.class to net/bandit/many_bows/item/DuskReaperBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DuskReaperBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DuskReaperBow in 721.0 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/IcicleJavelinBow.class to net/bandit/many_bows/item/IcicleJavelinBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/IcicleJavelinBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/IcicleJavelinBow in 628.5 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AuroraBow.class to net/bandit/many_bows/item/AuroraBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AuroraBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AuroraBow in 719.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/DemonsGrasp.class to net/bandit/many_bows/item/DemonsGrasp.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/DemonsGrasp with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/DemonsGrasp in 413.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SonicBoomBow.class to net/bandit/many_bows/item/SonicBoomBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SonicBoomBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SonicBoomBow in 637.9 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/SoulFragment.class to net/bandit/many_bows/item/SoulFragment.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/SoulFragment with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/SoulFragment in 189.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AncientSageBow.class to net/bandit/many_bows/item/AncientSageBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AncientSageBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AncientSageBow in 387.0 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedStone.class to net/bandit/many_bows/item/CursedStone.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AncientSageBow in 623.0 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BeaconBeamBow.class to net/bandit/many_bows/item/BeaconBeamBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedStone with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedStone in 159.1 μs
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BeaconBeamBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BeaconBeamBow in 656.3 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CrimsonNexusBow.class to net/bandit/many_bows/item/CrimsonNexusBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CrimsonNexusBow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CrimsonNexusBow in 657.2 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CrimsonNexusBow in 578.8 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/HeavensBow.class to net/bandit/many_bows/item/HeavensBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/HeavensBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/HeavensBow in 580.9 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/AethersCall.class to net/bandit/many_bows/item/AethersCall.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/AethersCall with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/AethersCall in 662.6 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/CursedStone.class to net/bandit/many_bows/item/CursedStone.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/CursedStone with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/CursedStone in 210.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/ArcaneBow.class to net/bandit/many_bows/item/ArcaneBow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/ArcaneBow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/ArcaneBow in 705.5 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/TabRegistry.class to net/bandit/many_bows/registry/TabRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/TabRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/TabRegistry in 168.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/TabRegistry in 290.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BowDamageRingItem$Tier.class to net/bandit/many_bows/item/BowDamageRingItem$Tier.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BowDamageRingItem$Tier with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BowDamageRingItem$Tier in 331.4 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BowDamageRingItem$Tier in 466.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/item/BowNecklaceItem$Tier.class to net/bandit/many_bows/item/BowNecklaceItem$Tier.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/item/BowNecklaceItem$Tier with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BowNecklaceItem$Tier in 264.8 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/item/BowNecklaceItem$Tier in 326.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/AethersCallArrow.class to net/bandit/many_bows/entity/AethersCallArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AethersCallArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AethersCallArrow in 621.7 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AethersCallArrow in 768.3 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/AncientSageArrow.class to net/bandit/many_bows/entity/AncientSageArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AncientSageArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AncientSageArrow in 524.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AncientSageArrow in 478.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/LightningArrow.class to net/bandit/many_bows/entity/LightningArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/LightningArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/LightningArrow in 461.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/LightningArrow in 553.9 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/AstralArrow.class to net/bandit/many_bows/entity/AstralArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AstralArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AstralArrow in 313.4 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AstralArrow in 314.5 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/AuroraArrowEntity.class to net/bandit/many_bows/entity/AuroraArrowEntity.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/AuroraArrowEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AuroraArrowEntity in 464.8 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/AuroraArrowEntity in 268.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/BeaconBeamArrow.class to net/bandit/many_bows/entity/BeaconBeamArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/BeaconBeamArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/BeaconBeamArrow in 574.8 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/BeaconBeamArrow in 389.6 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/IcicleJavelin.class to net/bandit/many_bows/entity/IcicleJavelin.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/IcicleJavelin with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/IcicleJavelin in 618.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/IcicleJavelin in 604.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/DragonsBreathArrow.class to net/bandit/many_bows/entity/DragonsBreathArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DragonsBreathArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DragonsBreathArrow in 455.7 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DragonsBreathArrow in 897.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/CursedFlameArrow.class to net/bandit/many_bows/entity/CursedFlameArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/CursedFlameArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/CursedFlameArrow in 402.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/CursedFlameArrow in 694.5 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/SonicBoomProjectile.class to net/bandit/many_bows/entity/SonicBoomProjectile.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SonicBoomProjectile with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SonicBoomProjectile in 354.9 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SonicBoomProjectile in 729.0 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/DuskReaperArrow.class to net/bandit/many_bows/entity/DuskReaperArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DuskReaperArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DuskReaperArrow in 282.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DuskReaperArrow in 633.7 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/HunterXPArrow.class to net/bandit/many_bows/entity/HunterXPArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/HunterXPArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HunterXPArrow in 219.9 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HunterXPArrow in 317.7 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/EtherealArrow.class to net/bandit/many_bows/entity/EtherealArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/EtherealArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/EtherealArrow in 324.4 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/EtherealArrow in 257.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/FlameArrow.class to net/bandit/many_bows/entity/FlameArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/FlameArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/FlameArrow in 591.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/FlameArrow in 549.8 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/FrostbiteArrow.class to net/bandit/many_bows/entity/FrostbiteArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/FrostbiteArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/FrostbiteArrow in 594.9 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/FrostbiteArrow in 525.9 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/HunterArrow.class to net/bandit/many_bows/entity/HunterArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/HunterArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HunterArrow in 651.7 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HunterArrow in 833.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/IronCladArrow.class to net/bandit/many_bows/entity/IronCladArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/IronCladArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/IronCladArrow in 357.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/IronCladArrow in 540.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/RadiantArrow.class to net/bandit/many_bows/entity/RadiantArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/RadiantArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/RadiantArrow in 339.8 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/RadiantArrow in 611.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/SentinelWrathArrow.class to net/bandit/many_bows/entity/SentinelWrathArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SentinelWrathArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SentinelWrathArrow in 287.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SentinelWrathArrow in 594.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/ShulkerBlastProjectile.class to net/bandit/many_bows/entity/ShulkerBlastProjectile.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/ShulkerBlastProjectile with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/ShulkerBlastProjectile in 391.0 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/ShulkerBlastProjectile in 642.3 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/SolarArrow.class to net/bandit/many_bows/entity/SolarArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SolarArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SolarArrow in 482.8 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SolarArrow in 732.5 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/SpectralArrow.class to net/bandit/many_bows/entity/SpectralArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SpectralArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SpectralArrow in 289.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SpectralArrow in 467.8 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/TidalArrow.class to net/bandit/many_bows/entity/TidalArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/TidalArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/TidalArrow in 306.3 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/TorchbearerArrow.class to net/bandit/many_bows/entity/TorchbearerArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/TorchbearerArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/TorchbearerArrow in 309.7 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/TidalArrow in 628.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/LightOrbEntity.class to net/bandit/many_bows/entity/LightOrbEntity.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/LightOrbEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/LightOrbEntity in 322.2 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/LightOrbEntity in 564.9 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/TorchbearerArrow.class to net/bandit/many_bows/entity/TorchbearerArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/TorchbearerArrow with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/TorchbearerArrow in 411.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/VitalityArrow.class to net/bandit/many_bows/entity/VitalityArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VitalityArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VitalityArrow in 261.2 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VitalityArrow in 445.7 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/VenomArrow.class to net/bandit/many_bows/entity/VenomArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VenomArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VenomArrow in 382.7 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VenomArrow in 593.6 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/WebstringArrow.class to net/bandit/many_bows/entity/WebstringArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/WebstringArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/WebstringArrow in 395.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/WebstringArrow in 440.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/WindProjectile.class to net/bandit/many_bows/entity/WindProjectile.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/WindProjectile with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/WindProjectile in 581.8 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/WindProjectile in 650.3 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/GravewireArrow.class to net/bandit/many_bows/entity/GravewireArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/GravewireArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/GravewireArrow in 1.215 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/GravewireArrow in 1.223 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/VaultpiercerArrow.class to net/bandit/many_bows/entity/VaultpiercerArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VaultpiercerArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VaultpiercerArrow in 930.0 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VaultpiercerArrow in 1.014 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/SoulhoardArrow.class to net/bandit/many_bows/entity/SoulhoardArrow.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/SoulhoardArrow with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SoulhoardArrow in 985.0 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/SoulhoardArrow in 1.096 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/EntityRegistry.class to net/bandit/many_bows/registry/EntityRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/EntityRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/EntityRegistry in 1.322 ms
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/EntityRegistry in 1.533 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/RiftEntity.class to net/bandit/many_bows/entity/RiftEntity.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/RiftEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/RiftEntity in 479.0 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/RiftEntity in 896.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/DragonsBreathArrow$1.class to net/bandit/many_bows/entity/DragonsBreathArrow$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/DragonsBreathArrow$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DragonsBreathArrow$1 in 205.8 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/DragonsBreathArrow$1 in 355.6 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/GravewireMarkEntity.class to net/bandit/many_bows/entity/GravewireMarkEntity.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/GravewireMarkEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/GravewireMarkEntity in 459.4 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/GravewireMarkEntity in 424.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/VaultPortalEntity.class to net/bandit/many_bows/entity/VaultPortalEntity.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/VaultPortalEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VaultPortalEntity in 722.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/VaultPortalEntity in 1.064 ms
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/entity/HoardedSkullEntity.class to net/bandit/many_bows/entity/HoardedSkullEntity.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/entity/HoardedSkullEntity with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HoardedSkullEntity in 671.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/entity/HoardedSkullEntity in 764.3 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/AttributesRegistry.class to net/bandit/many_bows/registry/AttributesRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/AttributesRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/AttributesRegistry in 183.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/AttributesRegistry in 260.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/registry/SoundRegistry.class to net/bandit/many_bows/registry/SoundRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/registry/SoundRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/SoundRegistry in 216.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/registry/SoundRegistry in 278.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/loot/ModLootModifiers.class to net/bandit/many_bows/loot/ModLootModifiers.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/loot/ModLootModifiers with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/loot/ModLootModifiers in 348.1 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/loot/ModLootModifiers$LootTier.class to net/bandit/many_bows/loot/ModLootModifiers$LootTier.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/loot/ModLootModifiers in 477.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/ManyBowsConfigHolder.class to net/bandit/many_bows/config/ManyBowsConfigHolder.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/loot/ModLootModifiers$LootTier with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/loot/ModLootModifiers$LootTier in 219.3 μs
-[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/loot/ModLootModifiers$ResolvedLootTier.class to net/bandit/many_bows/loot/ModLootModifiers$ResolvedLootTier.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/ManyBowsConfigHolder with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/ManyBowsConfigHolder in 124.3 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/BowLootConfig.class to net/bandit/many_bows/config/BowLootConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/bandit/many_bows/loot/ModLootModifiers$ResolvedLootTier with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/loot/ModLootModifiers$ResolvedLootTier in 159.2 μs
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowLootConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/BowLootConfig in 546.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/BowConfigRegistry.class to net/bandit/many_bows/config/BowConfigRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowConfigRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/BowConfigRegistry in 712.6 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/ConfigEntry.class to net/bandit/many_bows/config/ConfigEntry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/ConfigEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/ConfigEntry in 340.3 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/AethersCallBowConfig.class to net/bandit/many_bows/config/bows/AethersCallBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/AethersCallBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/AethersCallBowConfig in 240.5 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/AncientSageBowConfig.class to net/bandit/many_bows/config/bows/AncientSageBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/AncientSageBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/AncientSageBowConfig in 215.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/ArcaneBowConfig.class to net/bandit/many_bows/config/bows/ArcaneBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/ArcaneBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/ArcaneBowConfig in 143.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/AstralBoundBowConfig.class to net/bandit/many_bows/config/bows/AstralBoundBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/AstralBoundBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/AstralBoundBowConfig in 196.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/AurorasGraceBowConfig.class to net/bandit/many_bows/config/bows/AurorasGraceBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/AurorasGraceBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/AurorasGraceBowConfig in 238.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/BeaconBeamBowConfig.class to net/bandit/many_bows/config/bows/BeaconBeamBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/BeaconBeamBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/BeaconBeamBowConfig in 138.7 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/BurntRelicBowConfig.class to net/bandit/many_bows/config/bows/BurntRelicBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/BurntRelicBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/BurntRelicBowConfig in 104.6 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/CrimsonNexusBowConfig.class to net/bandit/many_bows/config/bows/CrimsonNexusBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/CrimsonNexusBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/CrimsonNexusBowConfig in 107.5 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/NecroFlameBowConfig.class to net/bandit/many_bows/config/bows/NecroFlameBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/NecroFlameBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/NecroFlameBowConfig in 181.7 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/DragonsBreathBowConfig.class to net/bandit/many_bows/config/bows/DragonsBreathBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/DragonsBreathBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/DragonsBreathBowConfig in 175.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/DuskReaperBowConfig.class to net/bandit/many_bows/config/bows/DuskReaperBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/DuskReaperBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/DuskReaperBowConfig in 167.5 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/EtherealHunterBowConfig.class to net/bandit/many_bows/config/bows/EtherealHunterBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/EtherealHunterBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/EtherealHunterBowConfig in 175.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/FlameBowConfig.class to net/bandit/many_bows/config/bows/FlameBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/FlameBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/FlameBowConfig in 180.3 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/FrostbiteBowConfig.class to net/bandit/many_bows/config/bows/FrostbiteBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/FrostbiteBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/FrostbiteBowConfig in 197.0 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/HunterBowConfig.class to net/bandit/many_bows/config/bows/HunterBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/HunterBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/HunterBowConfig in 183.8 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/GravewireBowConfig.class to net/bandit/many_bows/config/bows/GravewireBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/GravewireBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/GravewireBowConfig in 295.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/HunterXpBowConfig.class to net/bandit/many_bows/config/bows/HunterXpBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/HunterXpBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/HunterXpBowConfig in 158.9 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/IcicleJavelinBowConfig.class to net/bandit/many_bows/config/bows/IcicleJavelinBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/IcicleJavelinBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/IcicleJavelinBowConfig in 158.6 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/IroncladBowConfig.class to net/bandit/many_bows/config/bows/IroncladBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/IroncladBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/IroncladBowConfig in 147.7 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/LightningBowConfig.class to net/bandit/many_bows/config/bows/LightningBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/LightningBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/LightningBowConfig in 154.2 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/RadiantBowConfig.class to net/bandit/many_bows/config/bows/RadiantBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/RadiantBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/RadiantBowConfig in 172.8 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/ScatterBowConfig.class to net/bandit/many_bows/config/bows/ScatterBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/ScatterBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/ScatterBowConfig in 305.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/SentinelWrathBowConfig.class to net/bandit/many_bows/config/bows/SentinelWrathBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/SentinelWrathBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/SentinelWrathBowConfig in 293.6 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/ShulkerBlastBowConfig.class to net/bandit/many_bows/config/bows/ShulkerBlastBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/ShulkerBlastBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/ShulkerBlastBowConfig in 248.7 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/SolarBowConfig.class to net/bandit/many_bows/config/bows/SolarBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/SolarBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/SolarBowConfig in 214.9 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/SonicBoomBowConfig.class to net/bandit/many_bows/config/bows/SonicBoomBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/SonicBoomBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/SonicBoomBowConfig in 292.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/DemonsGraspBowConfig.class to net/bandit/many_bows/config/bows/DemonsGraspBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/DemonsGraspBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/DemonsGraspBowConfig in 237.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/SpectralWhisperBowConfig.class to net/bandit/many_bows/config/bows/SpectralWhisperBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/SpectralWhisperBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/SpectralWhisperBowConfig in 165.3 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/SoulhoardBowConfig.class to net/bandit/many_bows/config/bows/SoulhoardBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/SoulhoardBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/SoulhoardBowConfig in 235.0 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/TidalBowConfig.class to net/bandit/many_bows/config/bows/TidalBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/TidalBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/TidalBowConfig in 159.7 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/TorchbearerBowConfig.class to net/bandit/many_bows/config/bows/TorchbearerBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/TorchbearerBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/TorchbearerBowConfig in 138.6 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/TwinShadowsBowConfig.class to net/bandit/many_bows/config/bows/TwinShadowsBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/TwinShadowsBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/TwinShadowsBowConfig in 141.7 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/VerdantVigorBowConfig.class to net/bandit/many_bows/config/bows/VerdantVigorBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/VerdantVigorBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/VerdantVigorBowConfig in 152.1 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/VaultpiercerBowConfig.class to net/bandit/many_bows/config/bows/VaultpiercerBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/VaultpiercerBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/VaultpiercerBowConfig in 254.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/VenomBowConfig.class to net/bandit/many_bows/config/bows/VenomBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/VenomBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/VenomBowConfig in 167.9 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/VitalityWeaverBowConfig.class to net/bandit/many_bows/config/bows/VitalityWeaverBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/VitalityWeaverBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/VitalityWeaverBowConfig in 136.8 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/WebstringBowConfig.class to net/bandit/many_bows/config/bows/WebstringBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/WebstringBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/WebstringBowConfig in 125.8 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/bows/WindBowConfig.class to net/bandit/many_bows/config/bows/WindBowConfig.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/bows/WindBowConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/bows/WindBowConfig in 178.8 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/BowJsonConfigHelper.class to net/bandit/many_bows/config/BowJsonConfigHelper.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowJsonConfigHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/BowJsonConfigHelper in 389.4 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/config/BowJsonConfigHelper$ReloadEntry.class to net/bandit/many_bows/config/BowJsonConfigHelper$ReloadEntry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/config/BowJsonConfigHelper$ReloadEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/config/BowJsonConfigHelper$ReloadEntry in 189.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/command/TmbCommands.class to net/bandit/many_bows/command/TmbCommands.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/command/TmbCommands with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/command/TmbCommands in 206.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/command/TmbCommands in 605.2 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/ManyBowsClient.class to net/bandit/many_bows/client/ManyBowsClient.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/ManyBowsClient with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/ManyBowsClient in 630.7 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/ManyBowsClient in 734.5 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer.class to net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer in 304.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/FrostbiteArrowRenderer in 268.0 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer.class to net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer in 210.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SonicBoomProjectileRenderer in 194.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer.class to net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer in 129.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/DragonsBreathArrowRenderer in 131.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/IcicleJavelinRenderer.class to net/bandit/many_bows/client/renderer/IcicleJavelinRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/IcicleJavelinRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/IcicleJavelinRenderer in 106.3 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/IcicleJavelinRenderer in 121.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/VenomArrowRenderer.class to net/bandit/many_bows/client/renderer/VenomArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VenomArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VenomArrowRenderer in 103.0 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VenomArrowRenderer in 118.9 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/FlameArrowRenderer.class to net/bandit/many_bows/client/renderer/FlameArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/FlameArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/FlameArrowRenderer in 94.30 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/FlameArrowRenderer in 119.5 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/TidalArrowRenderer.class to net/bandit/many_bows/client/renderer/TidalArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/TidalArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/TidalArrowRenderer in 95.30 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/TidalArrowRenderer in 171.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/WindArrowRenderer.class to net/bandit/many_bows/client/renderer/WindArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/WindArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/WindArrowRenderer in 95.00 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/WindArrowRenderer in 122.8 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/LightningArrowRenderer.class to net/bandit/many_bows/client/renderer/LightningArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/LightningArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/LightningArrowRenderer in 94.50 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/LightningArrowRenderer in 131.8 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer.class to net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer in 92.60 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/CursedFlameArrowRenderer in 115.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/HunterArrowRenderer.class to net/bandit/many_bows/client/renderer/HunterArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/HunterArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HunterArrowRenderer in 94.20 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HunterArrowRenderer in 116.5 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/SentinelArrowRenderer.class to net/bandit/many_bows/client/renderer/SentinelArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SentinelArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SentinelArrowRenderer in 116.3 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SentinelArrowRenderer in 118.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer.class to net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer in 104.4 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/ShulkerBlastArrowRenderer in 119.8 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/HunterXPArrowRenderer.class to net/bandit/many_bows/client/renderer/HunterXPArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/HunterXPArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HunterXPArrowRenderer in 93.50 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HunterXPArrowRenderer in 138.3 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/AncientSageArrowRenderer.class to net/bandit/many_bows/client/renderer/AncientSageArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AncientSageArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AncientSageArrowRenderer in 116.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AncientSageArrowRenderer in 94.90 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/VitalityArrowRenderer.class to net/bandit/many_bows/client/renderer/VitalityArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VitalityArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VitalityArrowRenderer in 98.80 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VitalityArrowRenderer in 89.00 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/AstralArrowRenderer.class to net/bandit/many_bows/client/renderer/AstralArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AstralArrowRenderer with maxs=true frames=true
@@ -798,68 +974,76 @@
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/SpectralArrowRenderer.class to net/bandit/many_bows/client/renderer/SpectralArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SpectralArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SpectralArrowRenderer in 96.60 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SpectralArrowRenderer in 89.70 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/AuroraArrowRenderer.class to net/bandit/many_bows/client/renderer/AuroraArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AuroraArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AuroraArrowRenderer in 89.80 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AuroraArrowRenderer in 87.30 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/RadianceArrowRenderer.class to net/bandit/many_bows/client/renderer/RadianceArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/RadianceArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/RadianceArrowRenderer in 89.50 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/RadianceArrowRenderer in 91.20 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/DuskArrowRenderer.class to net/bandit/many_bows/client/renderer/DuskArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/DuskArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/DuskArrowRenderer in 131.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/DuskArrowRenderer in 97.60 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/IroncladArrowRenderer.class to net/bandit/many_bows/client/renderer/IroncladArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/IroncladArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/IroncladArrowRenderer in 123.0 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/IroncladArrowRenderer in 88.40 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/WebstringArrowRenderer.class to net/bandit/many_bows/client/renderer/WebstringArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/WebstringArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/WebstringArrowRenderer in 134.1 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/WebstringArrowRenderer in 95.60 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/TorchbearerArrowRenderer.class to net/bandit/many_bows/client/renderer/TorchbearerArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/TorchbearerArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/TorchbearerArrowRenderer in 120.6 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/TorchbearerArrowRenderer in 90.50 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/EtherealArrowRenderer.class to net/bandit/many_bows/client/renderer/EtherealArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/EtherealArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/EtherealArrowRenderer in 121.5 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/EtherealArrowRenderer in 86.20 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/SolarArrowRenderer.class to net/bandit/many_bows/client/renderer/SolarArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SolarArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SolarArrowRenderer in 318.4 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SolarArrowRenderer in 112.0 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/AethersCallArrowRenderer.class to net/bandit/many_bows/client/renderer/AethersCallArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/AethersCallArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AethersCallArrowRenderer in 106.0 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/AethersCallArrowRenderer in 136.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/BeaconBeamArrowRenderer.class to net/bandit/many_bows/client/renderer/BeaconBeamArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/BeaconBeamArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/BeaconBeamArrowRenderer in 116.0 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/BeaconBeamArrowRenderer in 105.6 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/GravewireArrowRenderer.class to net/bandit/many_bows/client/renderer/GravewireArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/GravewireArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/GravewireArrowRenderer in 92.50 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/GravewireArrowRenderer in 126.9 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/GravewireMarkRenderer.class to net/bandit/many_bows/client/renderer/GravewireMarkRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/GravewireMarkRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/GravewireMarkRenderer in 94.60 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/GravewireMarkRenderer in 75.60 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/VaultpiercerArrowRenderer.class to net/bandit/many_bows/client/renderer/VaultpiercerArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VaultpiercerArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VaultpiercerArrowRenderer in 108.3 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VaultpiercerArrowRenderer in 144.1 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/VaultPortalRenderer.class to net/bandit/many_bows/client/renderer/VaultPortalRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/VaultPortalRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VaultPortalRenderer in 75.40 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/VaultPortalRenderer in 109.6 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/SoulhoardArrowRenderer.class to net/bandit/many_bows/client/renderer/SoulhoardArrowRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/SoulhoardArrowRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SoulhoardArrowRenderer in 90.00 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/SoulhoardArrowRenderer in 123.4 μs
 [Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/renderer/HoardedSkullRenderer.class to net/bandit/many_bows/client/renderer/HoardedSkullRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/renderer/HoardedSkullRenderer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HoardedSkullRenderer in 72.70 μs
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/renderer/HoardedSkullRenderer in 93.70 μs
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/ClientTooltipHelper.class to net/bandit/many_bows/client/ClientTooltipHelper.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/ClientTooltipHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/ClientTooltipHelper in 1.113 ms
+[Architectury Transformer DEBUG] Transforming from net/bandit/many_bows/client/PullSpeedItem.class to net/bandit/many_bows/client/PullSpeedItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/bandit/many_bows/client/PullSpeedItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/bandit/many_bows/client/PullSpeedItem in 583.5 μs
