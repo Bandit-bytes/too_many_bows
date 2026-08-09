@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "too_many_bows",
-  "version": "1.1.0-26.1.2",
+  "version": "1.0.0-26.2",
   "name": "Too Many Bows",
   "description": "Adds a large collection of unique bows, projectiles, accessories, and abilities.",
   "authors": [
@@ -24,10 +24,10 @@
   ],
   "depends": {
     "fabricloader": ">=0.19.3",
-    "minecraft": "~26.1.2",
+    "minecraft": "~26.2",
     "java": ">=25",
-    "architectury": ">=20.0.7",
+    "architectury": ">=21.0.7",
     "fabric-api": "*",
-    "trinkets_updated": ">=4.0.0-beta.3"
+    "trinkets_updated": ">=4.1.0-beta.3"
   }
 }
